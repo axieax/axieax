@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![axieax's GitHub stats](https://github-readme-stats.vercel.app/api?username=axieax&bg_color=ffffff00&text_color=0055ff)](https://github.com/anuraghazra/github-readme-stats)
+[![axieax's GitHub stats](https://github-readme-stats.vercel.app/api?username=axieax&count_private=true&include_all_commits=true&custom_title=%E2%9C%A8%20axieax%27s%20GitHub%20Stats&show_icons=true&bg_color=ffffff00&text_color=0055ff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axieax&layout=compact&bg_color=ffffff00&text_color=0055ff)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **axieax/axieax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
