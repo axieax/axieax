@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![axieax's GitHub stats](https://github-readme-stats.vercel.app/api?username=axieax)](https://github.com/anuraghazra/github-readme-stats)
+[![axieax's GitHub stats](https://github-readme-stats.vercel.app/api?username=axieax&bg_color=ffffff00&text_color=0055ff)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **axieax/axieax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
