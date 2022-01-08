@@ -4,9 +4,13 @@
 Hello, World!
 ```
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=axieax&count_private=true&include_all_commits=true&custom_title=%E2%9C%A8%20axieax%27s%20GitHub%20Stats&show_icons=true&bg_color=ffffff00&text_color=0055ff" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axieax&langs_count=8&layout=compact&bg_color=ffffff00&text_color=0055ff" /> |
-| ------------- | ------------- |
-
+<div align="center">
+  <a href="#">
+    <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=axieax&count_private=true&include_all_commits=true&custom_title=%E2%9C%A8%20axieax%27s%20GitHub%20Stats&show_icons=true&bg_color=ffffff00&text_color=0055ff" />
+    <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axieax&langs_count=8&layout=compact&bg_color=ffffff00&text_color=0055ff" />
+  </a>
+</div>
+  
 <!--
 **axieax/axieax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
