@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there! 👋
 
-```
-Hello, World!
+```shell
+echo "Hello, World!" > /dev/null
 ```
 
 <div align="center">
