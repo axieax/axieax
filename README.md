@@ -12,7 +12,7 @@ On that note, here are some of my Neovim stuff:
 
 - My ever-evolving [🚀 Neovim Config](https://github.com/axieax/dotconfig/tree/main/nvim)
 - My [🔎 Url View](https://github.com/axieax/urlview.nvim) plugin for displaying all the URLs in a buffer
-- Another surprise coming soon..
+- More coming soon..
 
 <br/>
 <div align="center">
