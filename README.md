@@ -10,7 +10,7 @@ According to my friends, I may or may not have a *small* obsession with Neovim ð
 On that note, here are some Neovim plugins I have developed:
 
 - [ðŸ”Ž urlview.nvim](https://github.com/axieax/urlview.nvim)
-- Several others coming soon..
+- Another surprise coming soon..
 
 <br/>
 <div align="center">
