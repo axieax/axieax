@@ -4,6 +4,15 @@
 echo "Hello, World!" > /dev/null
 ```
 
+#### Neovim
+
+According to my friends, I may or may not have a *small* obsession with Neovim 😬..<br/>
+On that note, here are some Neovim plugins I have developed:
+
+- [🔎 urlview.nvim](https://github.com/axieax/urlview.nvim)
+- Several others coming soon..
+
+<br/>
 <div align="center">
   <a href="#">
     <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=axieax&count_private=true&include_all_commits=true&custom_title=%E2%9C%A8%20axieax%27s%20GitHub%20Stats&show_icons=true&bg_color=ffffff00&text_color=0055ff" />
