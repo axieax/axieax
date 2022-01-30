@@ -6,10 +6,12 @@ echo "Hello, World!" > /dev/null
 
 #### Neovim
 
-According to my friends, I may or may not have a *small* obsession with [Neovim](https://neovim.io), especially my constantly-evolving [config](https://github.com/axieax/dotconfig/tree/main/nvim) 😬..<br/>
-On that note, here are some Neovim plugins I have developed:
+According to my friends, I may or may not have a *small* obsession with [Neovim](https://neovim.io).. I beg to differ 😬..
+<br/>
+On that note, here are some of my Neovim stuff:
 
-- [🔎 urlview.nvim](https://github.com/axieax/urlview.nvim)
+- My ever-evolving [🚀 Neovim Config](https://github.com/axieax/dotconfig/tree/main/nvim)
+- My [🔎 Url View](https://github.com/axieax/urlview.nvim) plugin for displaying all the URLs in a buffer
 - Another surprise coming soon..
 
 <br/>
