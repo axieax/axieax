@@ -6,7 +6,7 @@ echo "Hello, World!" > /dev/null
 
 #### Neovim
 
-According to my friends, I may or may not have a *small* obsession with Neovim 😬..<br/>
+According to my friends, I may or may not have a *small* obsession with [Neovim](https://neovim.io) 😬..<br/>
 On that note, here are some Neovim plugins I have developed:
 
 - [🔎 urlview.nvim](https://github.com/axieax/urlview.nvim)
