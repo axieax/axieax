@@ -6,7 +6,7 @@ echo "Hello, World!" > /dev/null
 
 #### Neovim
 
-According to my friends, I may or may not have a *small* obsession with [Neovim](https://neovim.io).. I beg to differ 😬..
+According to my friends, I may or may not have a *small* obsession with [Neovim](https://neovim.io).. I beg to differ 🤭..
 <br/>
 On that note, here are some of my Neovim stuff:
 
